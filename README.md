@@ -1,1 +1,1 @@
-# trexPRO-C307
+# c14-SA
